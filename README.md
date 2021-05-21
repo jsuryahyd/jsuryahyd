@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and OSS.
 - 🎓 &nbsp; Non-Graduate
 - 💼 &nbsp; Working as a Software Developer at PTW.
-- ✍️ &nbsp; Learning more about Flutter, Svelte.
-- 🌱 &nbsp; Gardening and side hustles.
+- ✍️ &nbsp; Learning more about Flutter.
+- 🌱 &nbsp; Gardening and Meditation.
 
 <h3>🛠 Tech Stack</h3>
 
