@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and OSS.
 - 🎓 &nbsp; Non-Graduate
 - 💼 &nbsp; Working as a Software Developer at PTW.
-- ✍️ &nbsp; Learning more about Flutter.
+- ✍️ &nbsp; Learning more about Flutter and Micro-controllers.
 - 🌱 &nbsp; Gardening and Meditation.
 
 <h3>🛠 Tech Stack</h3>
