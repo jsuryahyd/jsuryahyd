@@ -13,7 +13,10 @@
 - 💻 &nbsp; Javascript | Typescript | Go 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Angular | Vue | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | Postgres | NoSQL
-- 🔧 &nbsp; Git | Markdown 
+- 🔧 &nbsp; Git | Markdown
+
+<h3><a href="https://docs.google.com/document/d/1dWYG-9CKnwemk2Hr8q7hlAqobvKtH8rhLfLjgki81jE/edit?usp=sharing">📑 Resume 🔗</a></h3>
+
 
 <br/>
 
