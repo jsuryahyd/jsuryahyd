@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Typescript | Dart | Python | PHP
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB | CloudFirestore
+- 💻 &nbsp; Javascript | Typescript | Go 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Angular | Vue | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | Postgres | NoSQL
 - 🔧 &nbsp; Git | Markdown 
 
 <br/>
