@@ -2,18 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and OSS.
-- 🎓 &nbsp; Non-Graduate
-- 💼 &nbsp; Working as a Software Developer at PTW.
-- ✍️ &nbsp; Learning more about Flutter and Micro-controllers.
-- 🌱 &nbsp; Gardening and Meditation.
+🤷🏻‍♂️
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Typescript | Go 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Angular | Vue | Node.js | ReactJS
+- 💻 &nbsp;  Typescript | Go | Javascript | Nodejs
+- 🌐 &nbsp; ReactJS | Vue | Angular | HTML | CSS | 
 - 🛢 &nbsp; MySQL | Postgres | NoSQL
-- 🔧 &nbsp; Git | Markdown
+- 🔧 &nbsp; AWS | Docker | Copilot | CI/CD
 
 <h3><a href="https://docs.google.com/document/d/1dWYG-9CKnwemk2Hr8q7hlAqobvKtH8rhLfLjgki81jE/edit?usp=sharing">📑 Resume 🔗</a></h3>
 
